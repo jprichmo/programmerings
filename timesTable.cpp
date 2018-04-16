@@ -35,10 +35,10 @@ int main(int argc, char** argv) {
 
     //prints out collections of items
     cout << "\n\n";
-    for (int k = 0; k < x; k++) {           //y-axis separated collections
-        for (int j = x - k; j < x+1; j++) { //height of each row
+    for (int k = 0; k < x; k++) {            //y-axis separated collections
+        for (int j = x - k; j < x+1; j++) {  //height of each row
             cout << "   ";
-            for (int i = 1; i < x+1; i++) { //width of each column
+            for (int i = 1; i < x+1; i++) {  //width of each column
                 cout << nItems(c,i) << "  "; //collection string
             }
             cout << "\n";
