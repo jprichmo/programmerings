@@ -67,5 +67,5 @@ print rep(" ",7), "Designed, manufactured, installed, and serviced signs all",\
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # SKILLS
 print rep("# ",40) + "\n#\n#" + rep(" ",6), "SKILLS" + "\n#"
 print rep(" ",7), "Languages: C++, C#, Java, Python, HTML, CSS, Javascript\n"
-print rep(" ",7), "Tools/Environments: Unity, Processing, Keras, Git\n"
+print rep(" ",7), "Tools/Environments: OpenGL, Unity, Processing, Keras, Git\n"
 print rep(" ",7), "Graphic Design: Inkscape, CorelDRAW, Adobe Suite"
