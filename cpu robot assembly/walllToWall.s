@@ -5,13 +5,8 @@
 #
 #  This program moves the robot at a medium speed along
 #  a wall until it hits a wall, then proceeds to the
-#  next wall and stops. This program comes from the modi-
-#  fication of a very simple program that reliably has
-#  the robot continuing around forever. For that reason,
-#  tuning the robot to stop after hitting one wall has
-#  proved to be more difficult than the straight forward
-#  approach, the result of which has some redundancies
-#  for robustness.
+#  next wall and stops. It is a modification of another
+#  simpler program that had the robot continuing forever
 #
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
